@@ -1,0 +1,10 @@
+# General Python artifacts
+__pycache__/
+*.py[cod]
+
+# Streamlit cache and logs
+.streamlit/
+.mplconfig/
+
+# macOS
+.DS_Store
