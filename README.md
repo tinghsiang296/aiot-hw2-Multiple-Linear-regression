@@ -1,4 +1,4 @@
-https://aiot-hw2-multiple-linear-regression-eepttbj5umzttumkh39tmj.streamlit.app
+[https://aiot-hw2-multiple-linear-regression-eepttbj5umzttumkh39tmj.streamlit.app](https://aiot-hw2-multiple-linear-regression-mn7ypsoarpghxjsmcd7jas.streamlit.app/)
 streamlit連結
 
 報告:運用 AI 輔助完成端對端機器學習專案 — Ames 房價預測實例分析
