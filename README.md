@@ -36,4 +36,4 @@ streamlit連結
 
 同時，對於導致模型係數不穩定的罕見屋頂材料類別，可以將其分組為「其 他」類別，以增強模型的穩定性並改善殘差分佈。 2.探索非線性模型:雖然線性模型提供了良好的基準效能與可解釋性，但房價 與其影響因素之間的關係很可能存在非線性。因此，下一步應將目前的線性模 型與梯度提升(Gradient Boosting)或隨機森林(Random Forest)等非線性模型 進行效能比較，以測試捕捉更複雜的特徵交互作用是否能帶來預測準確度的顯 著提升。
 本專案的最終交付成果已整理完畢，相關檔案可於以下位置找到: •靜態分析報告:analysis_report.md •預測區間視覺化圖表:prediction_plot.png
-<img width="415" height="681" alt="image" src="https://github.com/user-attachments/assets/5ac6f927-9143-4e0e-89c7-f4e07b796685" />
+
